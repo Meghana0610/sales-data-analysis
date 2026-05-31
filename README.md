@@ -81,7 +81,7 @@ The decline in sales from 2015 to 2016 may be attributed to a slight decrease in
 
 Conclusion
 
-The South region experienced a notable sales decline in 2016 despite only a small reduction in order volume. The analysis indicates that lower sales values per order, particularly within the Technology category and the Machines subcategory, were major contributors to the downturn. The Machines subcategory alone showed a 55% decrease in sales, making it a key area for further business investigation.This decline may be driven by a shift toward lower-value purchases, lower orders in south region impacting overall revenue growth. 
+The South region experienced a notable sales decline in 2016 despite only a small reduction in order volume. The analysis indicates that lower sales values per order, particularly within the Technology category and the Machines subcategory, were major contributors to the downturn. The Machines subcategory alone showed a 55% decrease in sales, making it a key area for further business investigation. This decline may be driven by a shift toward lower-value purchases, lower orders in south region impacting overall revenue growth. 
 
 Author
 
