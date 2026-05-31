@@ -7,8 +7,11 @@ This project analyzes sales performance in the South region using the Retail Sup
 Dataset
 
 Dataset: Retail Superstore Dataset
+
 Source: Kaggle
+
 Time Period: 2015–2018
+
 Region Analyzed: South Region
 
 Problem Statement
@@ -56,6 +59,25 @@ sales_analysis.ipynb – Data analysis notebook
 presentation.pptx – Project presentation
 customer (2).csv – Retail Superstore dataset
 README.md – Project documentation
+
+Answers
+
+1. What are the overall sales trends from 2015–2018?
+
+Sales dropped from 2015 to 2016 and improved again after 2016, showing recovery and growth.
+
+3. Which region showed the highest decline in 2016?
+
+South region showed the highest decline in 2016.
+
+3. Which category contributed most to the decline in the South region?
+
+Technology category contributed most to the decline in the South region.
+
+4. What are the possible reasons behind the drop in sales?
+
+The decline in sales from 2015 to 2016 may be attributed to a slight decrease in order volume and a shift toward lower-value purchases. Since sales decreased more significantly than orders, the average revenue generated per order also appears to have declined.
+
 
 Conclusion
 
