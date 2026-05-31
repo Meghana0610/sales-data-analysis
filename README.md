@@ -13,7 +13,14 @@ Region Analyzed: South Region
 
 Problem Statement
 
-An analysis of the South region revealed a significant decline in sales during 2016 compared to the previous year. While the number of orders decreased only slightly, sales revenue experienced a much larger decline, indicating changes in product mix, order value, or category performance.
+An analysis of the South region revealed a significant decline in sales during 2016 compared to the previous year. While the number of orders decreased only slightly, sales revenue experienced a much larger decline, indicating changes in order value, or category performance.
+
+Quetions
+
+1. What are the overall sales trends from 2015–2018?
+2. Which region showed the highest decline in 2016?
+3. Which category contributed most to the decline in the South region?
+4. What are the possible reasons behind the drop in sales?
 
 Objectives
 
@@ -47,12 +54,13 @@ Project Files
 
 sales_analysis.ipynb – Data analysis notebook
 presentation.pptx – Project presentation
-dataset.csv – Retail Superstore dataset
+customer (2).csv – Retail Superstore dataset
 README.md – Project documentation
+
 Conclusion
 
-The South region experienced a notable sales decline in 2016 despite only a small reduction in order volume. The analysis indicates that lower sales values per order, particularly within the Technology category and the Machines subcategory, were major contributors to the downturn. The Machines subcategory alone showed a 55% decrease in sales, making it a key area for further business investigation.
+The South region experienced a notable sales decline in 2016 despite only a small reduction in order volume. The analysis indicates that lower sales values per order, particularly within the Technology category and the Machines subcategory, were major contributors to the downturn. The Machines subcategory alone showed a 55% decrease in sales, making it a key area for further business investigation.This decline may be driven by a shift toward lower-value purchases, lower orders in south region impacting overall revenue growth. 
 
 Author
 
-[Your Name]
+Meghana Suresha
